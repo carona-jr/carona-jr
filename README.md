@@ -36,11 +36,12 @@
 
 ---
 
-<img align="left" alt="carona's Github Stats" src="https://github-readme-stats.carona.vercel.app/api?username=carona-jr&show_icons=true&hide_border=true" />
+[<img align="left" alt="carona's Github Stats" src="https://github-readme-stats.carona.vercel.app/api?username=carona-jr&show_icons=true&hide_border=true" />][github-stats]
 
-<img align="left" alt="carona's Github Stats" src="https://github-readme-stats.carona.vercel.app/api/top-langs/?username=carona-jr&hide_border=true" />
+[<img align="left" alt="carona's Github Stats" src="https://github-readme-stats.carona.vercel.app/api/top-langs/?username=carona-jr&hide_border=true" />][github-stats]
 
 [website]: https://carona-jr.github.io/portfolio/
 [instagram]: https://instagram.com/caronajr
 [linkedin]: www.linkedin.com/in/carlos-roberto-nascimento
 [repo]: https://github.com/carona-jr
+[github-stats]: https://github.com/anuraghazra/github-readme-stats
