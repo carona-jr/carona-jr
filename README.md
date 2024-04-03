@@ -1,8 +1,10 @@
 ### Hi there, I'm Carlos Roberto 👋
 
-- 🔭 I’m currently working on Calculator
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently working in Mottu.
+- 🌱 I’m currently learning Software Architecture.
 - ⚡ Fun fact: A group of unicorns is called a blessing.
+
+[Link to my resume](https://carona.notion.site/b5db5ec9b5014854bcf8c26db61552f5)
 
 ### Contact me
 
